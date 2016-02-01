@@ -1,0 +1,2 @@
+The Bonus Score button doesn't update until you roll again
+The Bonus Score isn't added to the total score display until the game is finished
